@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(243, 73, 101);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(83, 238, 238);
+}
+
+#divgeral {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#div1 {
+    background-color: aqua;
+    width: 65%;
+    border-radius: 20px;
+    margin: 15px;
+}
+
+#div1 h2 {
+    text-align: center;
+}
+
+#div1 p {
+    font-size: 18px;
+    padding: 5px 25px;
+}
+
+#div2 {
+    width: 30%;
+    margin-left: 45px;
+}
+
+#div2 h2 {
+    font-size: 50px;
+}
