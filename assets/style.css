@@ -1,10 +1,11 @@
 body {
-    background-color: rgb(243, 73, 101);
+    background-color: rgb(238, 136, 173);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
     text-align: center;
-    color: rgb(83, 238, 238);
+    color: aqua;
 }
 
 #divgeral {
@@ -14,7 +15,7 @@ h1 {
 }
 
 #div1 {
-    background-color: aqua;
+    background-color: rgb(119, 192, 199);
     width: 65%;
     border-radius: 20px;
     margin: 15px;
